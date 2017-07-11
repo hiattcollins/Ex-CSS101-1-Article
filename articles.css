@@ -1,0 +1,81 @@
+h1 {
+	font-family: sans-serif;
+}
+
+#article1 {
+	background-color: gainsboro;
+	color: black;
+	font-family: "Arial", sans-serif;
+	font-size: 14pt;
+	line-height: 2em;
+	padding: 5% 5%;
+	border-style: solid;
+	border-color: lightblue;
+	border-width: 20px;
+	border-radius: 100px;
+}
+
+#article2 {
+	background-color: navy;
+	color: oldlace;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 18pt;
+	line-height: 1em;
+	padding: 10% 5%;
+	border-style: solid;
+	border-color: slateblue;
+	border-width: 30px;
+	border-radius: 10px 50px 10px 50px;
+}
+
+#article3 {
+	background-color: saddlebrown;
+	color: lightgray;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20pt;
+	line-height: 1.5em;
+	padding: 20%;
+	border-style: solid;
+	border-color: rosybrown;
+	border-width: 10px;
+	border-radius: 250px;
+}
+
+#article4 {
+	background-color: mediumspringgreen;
+	color: dimgray;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12pt;
+	line-height: 2.5em;
+	padding: 2% 2%;
+	border-style: solid;
+	border-color: mediumseagreen;
+	border-width: 50px;
+	border-radius: 5px;
+}
+
+#article5 {
+	background-color: mediumpurple;
+	color: paleturquoise;
+	font-family: Georgia, serif;
+	font-size: 22pt;
+	line-height: 3em;
+	padding: 12%;
+	border-style: solid;
+	border-color: midnightblue;
+	border-width: 25px;
+	border-radius: 500px;
+}
+
+
+/*Requirements
+
+Copy and paste your blog article HTML into the index.html file for this exercise. For each article on your blog page, you need to have the following things to be unique.
+
+A different background color.
+A different font family.
+A different font size.
+A different font color.
+A different line height.
+A different padding value.
+Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)*/
